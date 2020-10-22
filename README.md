@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'am Rikma Mei sari
+Student researcher of Pusat Studi Data Science UAD
+Junior Data Analyst
 <!--
 **Rikmameisari/Rikmameisari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
